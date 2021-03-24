@@ -9,3 +9,7 @@ Projetos referentes ao meus estudos de HTML, CSS e JavaScript.
 4 - O Projeto Notícias Cidade trata-se de um site fictício de notícias composto por páginas com 1, 2 e 3 colunas flutuantes.
 
 5 - O Projeto Chalé Hotel trata-se de um site para um hotel fictício feito em layout líquido.
+
+6 - Projeto Parallax - Uma página criada usando o efeito parallax. 
+
+7 - Projeto Parallax GL - Uma versão da página Projeto Parallax com conteúdo de algumas distribuições GNU/Linux. 
