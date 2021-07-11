@@ -13,3 +13,7 @@ Projetos referentes ao meus estudos de HTML, CSS e JavaScript.
 6 - Projeto Parallax - Uma página criada usando o efeito parallax. 
 
 7 - Projeto Parallax GL - Uma versão da página Projeto Parallax com conteúdo de algumas distribuições GNU/Linux. 
+
+8 - Projeto Museu Nacional - Uma página simples para um museu que conta com três colunas com video e um mapa do google maps para o endereço do museu.
+
+9 - Projeto Agência - Um site feito para a agência de desenvolvimento de software fictícia chamda hDC Agency. O site é feito com Bootstrap e conta com slides, parallax e progress bar.  
